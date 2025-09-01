@@ -19,7 +19,7 @@ else{
 
     delBut.addEventListener("click",function(){
         li.remove()
-    })
+    });
 
 }
 })
